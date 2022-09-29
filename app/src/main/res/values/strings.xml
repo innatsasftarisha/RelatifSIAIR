@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Relative SIAIR</string>
+    <string-array name="arr_nama">
+        <item>Innatsa</item>
+        <item>Jungkook</item>
+        <item>Taehyung</item>
+    </string-array>
+
 </resources>
